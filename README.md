@@ -1,5 +1,5 @@
 
-The code is written based on the [Zhang et al's code](https://github.com/chuanting/FedDA)
+The code is written based on the [Zhang et al's code](https://github.com/chuanting/FedDA), and still under polishment.
 
 ## Train centralized model
 ```commandline
