@@ -1,4 +1,6 @@
 
+The code is written based on the [Zhang et al's code](https://github.com/chuanting/FedDA)
+
 ## Train centralized model
 ```commandline
 python centralized.py --file milano.h5 --type sms --lr 1e-2 --frac 0.1 --bs 100 --opt 'sgd' --out_dim 1 --epochs 10 --batch_size 50
