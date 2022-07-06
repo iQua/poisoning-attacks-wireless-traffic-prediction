@@ -17,7 +17,6 @@ from collections import OrderedDict
 from functools import partial
 import warnings
 from utils.models import LSTM, CNNLSTM
-from redundants.train_utils import normal_weight_init
 
 import higher
 import tqdm
